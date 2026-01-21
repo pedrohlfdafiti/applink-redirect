@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["C3HCE5NUFX.com.dafiti.iphone.dafiti"],
+        "components": [
+          { "/": "*" }
+        ]
+      }
+    ]
+  }
+}
